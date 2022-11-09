@@ -1,17 +1,23 @@
-body {background-color:black;
-    font-family:arial;
-    color:white
+body {
+    background-color: black;
+    font-family: arial;
+    color: white
 }
 
-h1{ color:grey;
-    font-family:verdana
-
+h1 {
+    color: grey;
+    font-family: verdana
 }
-.maindiv {
-    background-color:white;
-    color:black;
-    width:500px;
-    padding:30px;
-    border-radius:25px;
+
+.main {
+    background-color: white;
+    color: black;
+    width: 500px;
+    padding: 30px;
+    border-radius: 25px;
     text-align: left;
+}
+
+.calculator {
+    padding: 0 0 20px 20px;
 }
